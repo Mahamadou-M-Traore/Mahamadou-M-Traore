@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm passionate about building things with technology — from data pipelines to full-stack applications. I enjoy solving computational problems, working on group projects, and constantly learning new tools and frameworks.
+I'm passionate about building things with technology, from data pipelines to full-stack applications. I enjoy solving computational problems, working on group projects, and constantly learning new tools and frameworks.
 
 I'm a reliable, self-motivated team player who can work independently or collaboratively, take initiative, and adapt quickly to new environments. My international background and multicultural experience make me comfortable in diverse, global teams.
 
@@ -54,7 +54,7 @@ I'm a reliable, self-motivated team player who can work independently or collabo
 
 - 📚 Completing my Bachelor's in Computer Engineering (EQF Level 6, 180 ECTS)
 - 🔬 Academic projects involving **deep learning** and **digital technology**
-- 🌍 Preparing for an **international Erasmus+ internship** to gain real-world professional experience
+- 🌐 Building projects with Java, Python & SQL while growing as a developer
 - 🎨 Sharpening my skills in **design** (Photoshop, Illustrator, Canva) and **video editing**
 
 ---
