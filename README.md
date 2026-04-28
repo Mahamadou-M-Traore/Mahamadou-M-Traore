@@ -2,7 +2,7 @@
 
 🎓 Third-year **Computer Engineering** student at **Istanbul Arel University**, Turkey  
 🌍 Malian · Based in Istanbul · Studying in English  
-🔍 Actively seeking an **Erasmus+ Internship** (2025–2026)
+🔍 Open to internship opportunities in tech
 
 ---
 
