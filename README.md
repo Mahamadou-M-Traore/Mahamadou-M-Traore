@@ -62,7 +62,6 @@ I'm a reliable, self-motivated team player who can work independently or collabo
 ## 📫 Get in Touch
 
 - 📧 Email: [mahamadoutraore22@istanbularel.edu.tr](mailto:mahamadoutraore22@istanbularel.edu.tr)
-- 📱 WhatsApp: +90 531 738 5096
 - 📍 Istanbul, Turkey
 
 ---
